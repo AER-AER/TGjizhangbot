@@ -1,4 +1,4 @@
-# 2025新款记账机器人开源
+# 搭建TG记账机器人
 部署教程，我将会放在如下：
 # 机器人功能
 <img width="1176" height="976" alt="image" src="https://github.com/user-attachments/assets/f852637a-01aa-4253-aec0-0f4fd60fcb00" />
