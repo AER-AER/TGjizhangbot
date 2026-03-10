@@ -25,6 +25,7 @@
 （版本高点应该好点，看当时情况）
 # 添加守护进程
 这里以super守护进程示例，其他自己摸索
+
 <img width="554" height="308" alt="image" src="https://github.com/user-attachments/assets/2ca3aafd-d776-48f8-8315-b5c5548d2eb7" />
 
 # 更多学习内容请，自行点击以下地址
