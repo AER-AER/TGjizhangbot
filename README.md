@@ -1,5 +1,8 @@
 # 2025新款记账机器人开源
 部署教程，我将会放在如下：
+# 功能
+<img width="1176" height="976" alt="image" src="https://github.com/user-attachments/assets/f852637a-01aa-4253-aec0-0f4fd60fcb00" />
+
 # 部署教程
 一、服务器配置
 
