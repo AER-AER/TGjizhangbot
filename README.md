@@ -9,9 +9,9 @@
 
 什么？ 没有？ 那请点击浏览器右上角的X号!
 # 宝塔安装
-直接自己去看吧 [官网](bt.cn)
+直接自己去看吧 [官网bt.cn](bt.cn)
 如果宝塔都不会玩我建议你放弃~
-实在不晓，可以@ [我们TG管理员付费指导](@AER_TGID)
+实在不晓，可以 [@我们TG管理员付费指导](@AER_TGID)
 # 必装环境
 <img width="1562" height="716" alt="image" src="https://github.com/user-attachments/assets/da202b5b-af27-4d7b-89ab-45d601805d89" />
 
