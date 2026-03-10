@@ -1,9 +1,9 @@
 # 2025新款记账机器人开源
 部署教程，我将会放在如下：
-# 功能
+# 机器人功能
 <img width="1176" height="976" alt="image" src="https://github.com/user-attachments/assets/f852637a-01aa-4253-aec0-0f4fd60fcb00" />
 
-# 部署教程
+# 简述
 一、服务器配置
 
 1，运行内存配置，至少1h1g（这个没啥要求，也可用） (建议2h2g，运行比较利索)
