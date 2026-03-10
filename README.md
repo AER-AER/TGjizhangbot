@@ -11,6 +11,7 @@
 实在不晓，可以@我们TG管理员付费指导 [@AER_TGID]
 # 必装环境
 <img width="1562" height="716" alt="image" src="https://github.com/user-attachments/assets/da202b5b-af27-4d7b-89ab-45d601805d89" />
+
 1，🙋由于在之前版本很多同学不会使用supervisor，所以2.0.+版本我们会采用较为简单的堡塔应用管理器来实现守护进程
 2，实在也不懂，可以用python管理器吧
 3，最后安装node就好了
@@ -19,11 +20,13 @@
 （在源码包有数据库）
 # 配置文件（config.js）
 <img width="554" height="248" alt="image" src="https://github.com/user-attachments/assets/ee8e6b87-9902-4cf6-ab2a-5263c22af320" />
+
 # 安装node的环境拓展
 （版本高点应该好点，看当时情况）
 # 添加守护进程
 这里以super守护进程示例，其他自己摸索
 <img width="554" height="308" alt="image" src="https://github.com/user-attachments/assets/2ca3aafd-d776-48f8-8315-b5c5548d2eb7" />
+
 #更多学习内容请，自行点击以下地址
 👉 https://aer999.top
 
