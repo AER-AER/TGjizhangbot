@@ -11,12 +11,14 @@
 # 宝塔安装
 直接自己去看吧 [官网bt.cn](bt.cn)
 如果宝塔都不会玩我建议你放弃~
-实在不晓，可以 [@我们TG管理员付费指导](@AER_TGID)
+实在不晓，可以 [@我们TG管理员@AER_TGID付费指导](https://t.me/AER_TGID)
 # 必装环境
 <img width="1562" height="716" alt="image" src="https://github.com/user-attachments/assets/da202b5b-af27-4d7b-89ab-45d601805d89" />
 
 1，🙋由于在之前版本很多同学不会使用supervisor，所以2.0.+版本我们会采用较为简单的堡塔应用管理器来实现守护进程
+
 2，实在也不懂，可以用python管理器吧
+
 3，最后安装node就好了
 # 在文件那里上传源码
 # 创建数据库并上传
