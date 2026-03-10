@@ -30,6 +30,7 @@
 （在源码包有数据库）
 # 配置文件
 点击源码文件中的（config.js）
+
 <img width="554" height="248" alt="image" src="https://github.com/user-attachments/assets/ee8e6b87-9902-4cf6-ab2a-5263c22af320" />
 
 # 安装node环境拓展
