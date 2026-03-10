@@ -28,20 +28,21 @@
 # 上传源码
 # 创建数据库并上传
 （在源码包有数据库）
-# 配置文件（config.js）
+# 配置文件
+点击源码文件中的（config.js）
 <img width="554" height="248" alt="image" src="https://github.com/user-attachments/assets/ee8e6b87-9902-4cf6-ab2a-5263c22af320" />
 
-# 安装node的环境拓展
+# 安装node环境拓展
 （版本高点应该好点，看当时情况）
 # 添加守护进程
 这里以super守护进程示例，其他自己摸索
 
 <img width="554" height="308" alt="image" src="https://github.com/user-attachments/assets/2ca3aafd-d776-48f8-8315-b5c5548d2eb7" />
 # 机器人详细介绍与演示
-点击查看  [详细地址](https://aer999.top/816.html)
+点击查看[详细地址](https://aer999.top/816.html)
 
-# 更多学习内容请，自行点击以下地址
-👉 https://aer999.top
+# 更多搭建TG机器人
+博客地址👉 https://aer999.top
 
 # 免责声明
 记账代码程序是免费开源的产品，仅用于学习交流使用！
